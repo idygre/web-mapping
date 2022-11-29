@@ -14,7 +14,7 @@ fgv = folium.FeatureGroup(name="Volcanoes")
 fgp = folium.FeatureGroup(name="population")
 
 html = """
-<h4>Volcano Name: </h4>
+<h4>Volcano Name: TEST </h4>
 <a href= "https://www.google.com/search?q=%%22%s%%22" target = "_blank"> %s </a> <br>
 Height: %s m
 """
